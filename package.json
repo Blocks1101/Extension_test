@@ -1,0 +1,22 @@
+{
+  "name": "extension_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blocks1101/Extension_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blocks1101/Extension_test/issues"
+  },
+  "homepage": "https://github.com/Blocks1101/Extension_test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.0"
+  }
+}
